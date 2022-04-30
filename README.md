@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @missy24-cpu
+- 👋 Hi, I’m Missy
 - 👀 I’m interested in python  
-- 🌱 I’m currently learning c, c#, html and java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me missybell.paris-18@cpu.edu.ph
+- 🌱 I’m currently learning javascript, react native, and react js 
+- 💞️ I’m looking to collaborate on react native 
+- 📫 How to reach me amissying24@gmail.com
 
 <!---
 missy24-cpu/missy24-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
