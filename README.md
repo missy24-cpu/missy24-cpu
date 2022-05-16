@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Missy
-- 👀 I’m interested in python  
+- 👀 I’m interested in u <3
 - 🌱 I’m currently learning javascript, react native, and react js 
 - 💞️ I’m looking to collaborate on react native 
 - 📫 How to reach me amissying24@gmail.com
